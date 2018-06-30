@@ -1,4 +1,4 @@
-# Go 入门指南
+# Introduction
 
 ## 本书介绍
 
@@ -10,26 +10,24 @@
 
 目前已由多位 Go 语言爱好者共同提交翻译内容，主要包括：
 
-- [@zhanming](https://github.com/zhanming)
-- themorecolor
-- [@everyx](https://github.com/everyx)
-- [@chidouhu](https://github.com/chidouhu)
-- [@spawnris](https://github.com/spawnris)
-- [@domainname](https://github.com/domainname)
-- [@leisore](https://github.com/leisore)
-- [@dake](https://github.com/dake)
-- [@glight2000](https://github.com/glight2000)
-- [@songleo](https://github.com/songleo)
+* [@zhanming](https://github.com/zhanming)
+* themorecolor
+* [@everyx](https://github.com/everyx)
+* [@chidouhu](https://github.com/chidouhu)
+* [@spawnris](https://github.com/spawnris)
+* [@domainname](https://github.com/domainname)
+* [@leisore](https://github.com/leisore)
+* [@dake](https://github.com/dake)
+* [@glight2000](https://github.com/glight2000)
+* [@songleo](https://github.com/songleo)
 
 ## 适用人群
 
 适合有一定编程基础，初学 Go 语言的爱好者。
 
->
-Martini&Macaron 交流群：371440803
->
-Golang 编程：245386165
+&gt; Martini&Macaron 交流群：371440803 &gt; Golang 编程：245386165
 
-|更新日期    |更新内容
-|----------|------------------
-|2015-1-6|14.6 协程和恢复（recover）
+| 更新日期 | 更新内容 |
+| --- | --- |
+| 2015-1-6 | 14.6 协程和恢复（recover） |
+
